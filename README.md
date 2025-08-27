@@ -48,6 +48,21 @@ A simple Next.js 15 application with public and protected pages using **NextAuth
 
 ---
 
+## 📂 Project Structure
+    ```bash
+    /app
+    ├── (public pages)
+    │   ├── page.jsx                 # Landing page
+    │   ├── products
+    │   │   ├── page.jsx             # Product list
+    │   │   └── [id]/page.jsx        # Product details
+    │   └── login/page.jsx           # Login page
+    │
+    ├── dashboard
+    │   └── add-product/page.jsx     # Protected page
+
+---
+
 ## ⚡ Setup & Installation
 
 1. **Clone the repository**
