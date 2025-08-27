@@ -49,7 +49,6 @@ A simple Next.js 15 application with public and protected pages using **NextAuth
 ---
 
 ## 📂 Project Structure
-    ```bash
     /app
     ├── (public pages)
     │   ├── page.jsx                 # Landing page
