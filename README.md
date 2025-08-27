@@ -105,7 +105,7 @@ This is a simple Next.js 15 (App Router) application featuring public and protec
 ---
 
 ## 📎 Submission
-Live Site (Vercel): -** [https://fashionhub-bmyew72l8-shihabs-projects-54e0af4f.vercel.app/]
+Live Site (Vercel): -** [https://fashionhub-lime.vercel.app/]
 ---
 ##👨‍💻 Author
 Developed  by Shihab Islam
