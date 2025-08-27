@@ -1,6 +1,7 @@
-# 🌟 Simple Next.js 15 Product App
+# 🌟 📖 Project Overview
 
-A simple Next.js 15 application with public and protected pages using **NextAuth.js** for authentication. Users can view a landing page, browse products, view product details, and add new products after logging in.
+This is a simple Next.js 15 (App Router) application featuring public and protected routes. Users can browse products, view product details, log in with NextAuth.js, and add products through a protected dashboard.
+
 
 ---
 
