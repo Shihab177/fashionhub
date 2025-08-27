@@ -65,4 +65,13 @@ A simple Next.js 15 application with public and protected pages using **NextAuth
    GOOGLE_CLIENT_ID=your_google_client_id
    GOOGLE_CLIENT_SECRET=your_google_client_secret
    NEXTAUTH_SECRET=your_nextauth_secret
+4. **Run Development Server**
+   ```bash
+   npm run dev
+   Visit 👉 http://localhost:3000
+5. **Build for Production**
+  ```bash
+   npm run build
+   npm start   
+   
    
