@@ -66,8 +66,8 @@ A simple Next.js 15 application with public and protected pages using **NextAuth
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/Shihab177/fashionhub.git
+   cd fashionhub
 2. **Install dependencies**
      ```bash
      npm install
