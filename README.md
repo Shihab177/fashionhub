@@ -61,8 +61,8 @@ A simple Next.js 15 application with public and protected pages using **NextAuth
    Create a .env file in the root:
    ```bash
    MONGODB_URI=your_mongodb_connection_string
-DB_NAME=your_database_name
-GOOGLE_CLIENT_ID=your_google_client_id
-GOOGLE_CLIENT_SECRET=your_google_client_secret
-NEXTAUTH_SECRET=your_nextauth_secret
+   DB_NAME=your_database_name
+   GOOGLE_CLIENT_ID=your_google_client_id
+   GOOGLE_CLIENT_SECRET=your_google_client_secret
+   NEXTAUTH_SECRET=your_nextauth_secret
    
