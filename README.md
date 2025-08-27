@@ -84,13 +84,13 @@ A simple Next.js 15 application with public and protected pages using **NextAuth
    npm run dev
    Visit 👉 http://localhost:3000
 5. **Build for Production**
-  ```bash
+   
    npm run build
    npm start
 
 ---
 
-## 📌 Route Summary
+## 🛠 route samary
 
 | Route                    | Access        | Description                                 |
 |---------------------------|---------------|---------------------------------------------|
