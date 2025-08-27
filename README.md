@@ -1,4 +1,4 @@
-# 🌟 📖 Project Overview
+# 📖 Project Overview
 
 This is a simple Next.js 15 (App Router) application featuring public and protected routes. Users can browse products, view product details, log in with NextAuth.js, and add products through a protected dashboard.
 
