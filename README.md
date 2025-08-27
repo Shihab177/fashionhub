@@ -86,6 +86,19 @@ A simple Next.js 15 application with public and protected pages using **NextAuth
 5. **Build for Production**
   ```bash
    npm run build
-   npm start   
-   
-   
+   npm start
+
+---
+
+## 📌 Route Summary
+
+| Route                    | Access        | Description                                 |
+|---------------------------|---------------|---------------------------------------------|
+| `/`                       | Public        | Landing page with sections                  |
+| `/login`                  | Public        | Login page using NextAuth                   |
+| `/products`               | Public        | Product list page                           |
+| `/products/[id]`          | Public        | Product details page                         |
+| `/dashboard/add-product`  | Protected     | Add product form (requires login)          |
+| `/api/products`           | Public API    | Fetch products                              |
+      
+---
