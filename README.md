@@ -102,3 +102,9 @@ A simple Next.js 15 application with public and protected pages using **NextAuth
 | `/api/products`           | Public API    | Fetch products                              |
       
 ---
+
+## 📎 Submission
+Live Site (Vercel): -** [https://fashionhub-bmyew72l8-shihabs-projects-54e0af4f.vercel.app/]
+---
+##👨‍💻 Author
+Developed with  by ShihabIslam
